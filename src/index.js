@@ -11,7 +11,7 @@ ReactDOM.render(<App />, document.getElementById('root'));
 *   - sparrow: seen on several websites
 *
 *  Descriptions Credits:
-*  Mostly Wikipedia and souces of images
+*  Mostly from Wikipedia but also from sources of images
 *
 *  Help me to give credits, if you know more contact me.
 **/

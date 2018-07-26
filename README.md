@@ -24,6 +24,7 @@ What result will it bring back?
 ### Extra functionalities:
 
 As mentioned, at a first sight, the card looks exactly as the original one [available here](https://github.com/CristianoZitarosa/animalTradingCards).
+
 As a personal note I want to say again that the style is simple and clean according to the original purpose of the project, that is not to shock you but just be informative. This style has been loved by a lot of people from students to reviewers.
 To preserve the original style, no visual indications about the following features are provided to the user in the app apart of this README.
 
@@ -55,6 +56,18 @@ Open it in the editor and choose an option.
 At the moment both options are left commented (a commented string in the `.env` file is identified by the character `#`).
 Leaving it unchanged, it will be followed the default behavior after the server is started.
 If your wish is to use a different browser,find and insert the path to launch the browser on your system in place of the string `{INSERT_THE_PATH_HERE}`.
+
+### Credits:
+
+- Image Credits:
+   - greenfinch: http://www.seenature.org.uk/see-nature-news/the-greenfinch/
+   - common blackbird: http://www.nidoingiardino.com/merlo/
+   - sparrow: seen on several websites
+
+- Descriptions Credits:
+  Mostly from Wikipedia but also from sources of images
+
+  **Help me to give credits, if you know more contact me.**
 
 
 ### License:

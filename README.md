@@ -1,11 +1,15 @@
 # Project: Animal Trading Card | Revisited with React
 
+### Open the page
+
+[Click here](https://cristianozitarosa.github.io/animalTradingCardReact/)
+
 ### Brief introduction
 
 The first project for the Udacity nanodegree is the Animal Trading Card.
 This is a simple project to practice HTML and CSS and consists in a card displaying a picture of an animal (student's choice) and a few interesting facts of the subject. The student needs to fit the project's requirements as size, code quality, specific styles on certain elements.
 
-The last part of the Udacity nanodegree is related to the practice on React with 2 project to complete by using it.
+The last part of the Udacity nanodegree is related to the practice of React, with 2 projects to complete by using it.
 So this is the idea, why not merge the first simple project with the last part of the nanodegree?
 It really does not need React but, how to make it show simple as usual but at the same time empower it under the hood just for fun and practice?
 What result will it bring back?
@@ -19,13 +23,13 @@ What result will it bring back?
 - Uses border around animal’s information;
 - Uses spacing between animal’s name, image, and information;
 - Card width should be fixed and include the spacing around the image (Since image is 300px wide, card should be 300px + spacing on either side. Card should not expand with the browser window);
-- The image’s alt is relevant to the animal used.
+- The image’s alt is relevant to the choosen animal.
 
 ### Extra functionalities:
 
 As mentioned, at a first sight, the card looks exactly as the original one [available here](https://github.com/CristianoZitarosa/animalTradingCards).
 
-As a personal note I want to say again that the style is simple and clean according to the original purpose of the project, that is not to shock you but just be informative. This style has been loved by a lot of people from students to reviewers.
+As a personal note I want to say again that the style is simple and clean according to the original purpose of the project, it is not meant to shock you but just to inform you. This style has been loved by a lot of people from students to reviewers.
 To preserve the original style, no visual indications about the following features are provided to the user in the app apart of this README.
 
 - It is available more than 1 card (no limits for the max) to read;
